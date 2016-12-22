@@ -364,11 +364,16 @@ input:-moz-placeholder {
 	font-size: 14px;
 	line-height: 1.5rem;	
 	width: 65%;
-	margin-bottom: 80px;
+	margin-bottom: 40px;
+}
+.more p {
+	margin: 0;
+	padding: 0;
 }
 .more{
 	display: flex;
 	justify-content: space-between;
+	padding-top: 30px;
 }
 .readMore{
 	width: 20%;
@@ -404,7 +409,7 @@ input:-moz-placeholder {
 	box-shadow: 1px 1px 7px #fff;
 }
 .map{
-	margin: 2% auto;
+	margin: 30px  auto 0;
 	max-width: 900px;
 }
 /***************************************************************************************/
